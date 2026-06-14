@@ -11,6 +11,7 @@
 
 ## Install
 [Download `OptiscalerClient-1.0.5.zip`](https://github.com/senjul07/optiscaler-client-fsr4/releases/download/v1.0.5/OptiscalerClient-1.0.5.zip)
+---
 
 <img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/b7d3f443-c1fd-4211-9e60-32bedfa86f5e" />
 <img width="1140" height="600" alt="image" src="https://github.com/user-attachments/assets/f359fc65-9746-440f-8f5b-8a499b68d72c" />
